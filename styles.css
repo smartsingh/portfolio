@@ -42,3 +42,20 @@ img {
 .social-btns{
     text-align:center;
 }
+
+@media (max-width:768px){ 
+.footer{
+    position:absolute;
+    width:100%;
+} 
+
+}
+@media (min-width:768px){ 
+.footer{
+    position:absolute;
+    bottom:0;
+    height:60px;
+    width:100%;
+}
+
+}
