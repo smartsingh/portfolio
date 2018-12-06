@@ -42,15 +42,3 @@ img {
 .social-btns{
     text-align:center;
 }
-
-
-@media (max-width: 600px) {
-    .navbar {
-        background-color: goldenrod !important;
-    }
-
-    .navbar .navbar-brand{
-        color: white;
-        font-weight: bold;
-    }
-}
