@@ -16,7 +16,6 @@ img {
     padding-top:40px;
 }
 
-
 .bubble{
     background-color: white;
     border-radius: 16px;
@@ -24,12 +23,8 @@ img {
     margin-bottom:20px;
 }
 
-.footer-mobile{
-    position: relative;
-}
-
 .footer {
-    position: absolute;
+    position: relative;
     bottom: 0;
     width: 100%;
     height: 60px;
@@ -46,5 +41,3 @@ img {
 .social-btns{
     text-align:center;
 }
-
-@media only screen and (min-width:320px) and (max-width: 800px) { .footer-mobile{position:relative !important;} }
