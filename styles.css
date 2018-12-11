@@ -8,6 +8,10 @@ img {
     height: auto;
 }
 
+h3.card-header{
+    color: white;
+}
+
 .img-fluid{
     height:200px;
 }
