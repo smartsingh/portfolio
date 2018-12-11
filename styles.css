@@ -24,6 +24,10 @@ img {
     margin-bottom:20px;
 }
 
+.footer-mobile{
+    position: relative;
+}
+
 .footer {
     position: absolute;
     bottom: 0;
@@ -43,5 +47,4 @@ img {
     text-align:center;
 }
 
-@media only screen and (min-width:320px) and (max-width: 480px) { .footer-mobile{position:relative !important;} }
-@media only screen and (min-width:480px) and (max-width:600px)  { .footer-mobile{position:relative !important;} }
+@media only screen and (min-width:320px) and (max-width: 800px) { .footer-mobile{position:relative !important;} }
